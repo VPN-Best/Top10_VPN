@@ -114,11 +114,11 @@ BGP全中转+IPLC/IEPL 专线,无直连。
 
 官网：[点击注册](https://go.51tz.cc/surfshark)
 
-## DuangCloud
+## 3fanCloud
 
-最低 20/月-50GB 流量，运营 2 年+
+全节点采用中转加速，企业级IPLC高速专线，运营 2 年+
 
-官网: [点击注册](https://go.51tz.cc/sycloud)
+官网: [点击注册](https://go.51tz.cc/3fan)
 
 ---
 
